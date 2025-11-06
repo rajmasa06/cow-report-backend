@@ -1,4 +1,4 @@
-package com.example.cow_report_backend;
+package com.example.cowreport;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

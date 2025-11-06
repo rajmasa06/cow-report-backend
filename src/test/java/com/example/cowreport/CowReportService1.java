@@ -1,4 +1,4 @@
-package com.example.cow_report_backend;
+package com.example.cowreport;
 
 import com.example.cowreport.model.CowReport;
 
